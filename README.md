@@ -2,7 +2,7 @@
 
 hello welcome to my repository.
 
-I'm Hanan, a student of informatics engineering
+I'm Hanan, I'm an informatics engineering student from unugha
 
 hope you like it,
 thank you.
